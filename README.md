@@ -1,6 +1,6 @@
 ### My Github
 
-Account age: **4** years
+Account age: **{ACCOUNT_AGE}** years
 
 Pushed **1658** commits
 
